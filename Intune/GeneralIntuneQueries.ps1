@@ -1,0 +1,1 @@
+Get-MsolDevice -RegisteredOwnerUpn "peter.morgan@tpicap.com"
